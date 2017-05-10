@@ -17,21 +17,21 @@ if you have not install karma-cli, run the following command:
 
 ### Angular Test with Jasmine and Karma ###
 
-To run angularjs test on the mlearn-scheduler-web project, run the following command:
+To run angularjs test on the project, run the following command:
 
 > cd my_dev_folder
 > npm test
 
 ### Build with Grunt ###
 
-To create the bundle.min.js file in the mlearn-scheduler-web project, run the following command:
+To create the bundle.min.js file in the project, run the following command:
 
 > cd my_dev_folder
 > grunt default
 
 ### Build with Gulp ###
 
-To create the bundle.min.js file in the mlearn-scheculer-web project. run the following command:
+To create the bundle.min.js file in the project. run the following command:
 
 > cd my_dev_folder
 > gulp 
