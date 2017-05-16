@@ -54,7 +54,3 @@ npm install --save-dev grunt
 npm install --save-dev grunt-perfbudget
 npm install --save-dev grunt-phantomas
 </pre>
-
-To see how the grunt perfbudget and phantomas can be used visit the web-perf folder under clef-eureka-wazyn module
-
-
