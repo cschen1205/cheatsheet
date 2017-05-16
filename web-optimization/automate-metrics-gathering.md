@@ -18,10 +18,10 @@ npm install --global psi
 "psi" is a command line tool for Google PageSpeed Insight. After it is installed, it can be run like the following
 
 <pre>
-psi https://www.wazyn.com --strategy desktop --threshold 50
+psi https://www.google.com --strategy desktop --threshold 50
 </pre>
 
-Where "50" is the threshold of score what the https://www.wazyn.com tries to meet, run the following command to see the 
+Where "50" is the threshold of score what the https://www.google.com tries to meet, run the following command to see the 
 error level (e.g. no. of times the threshold is not met)
 
 <pre>
@@ -39,7 +39,7 @@ npm install --global tmi
 Run the following command to get statistics from tmi:
 
 <pre>
-tmi https://www.wazyn.com --strategy desktop --threshold 90
+tmi https://www.google.com --strategy desktop --threshold 90
 </pre>
 
 Where "90" again is the threshold of the score set for the page to load
